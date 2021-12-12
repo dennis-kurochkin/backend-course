@@ -1,0 +1,25 @@
+{
+  "name": "backend-course",
+  "version": "0.0.1",
+  "description": "I'm learning back-end again!",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennis-kurochkin/backend-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennis-kurochkin/backend-course/issues"
+  },
+  "homepage": "https://github.com/dennis-kurochkin/backend-course#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}

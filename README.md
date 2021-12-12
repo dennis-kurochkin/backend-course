@@ -1,2 +1,3 @@
-# backend-course
-I'm learning back-end again! 
+# Backend course
+
+That's my take on some back-end course. 

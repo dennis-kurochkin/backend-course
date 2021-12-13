@@ -4,6 +4,7 @@
   "description": "I'm learning back-end again!",
   "main": "index.js",
   "private": true,
+  "type": "module",
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +20,9 @@
   },
   "homepage": "https://github.com/dennis-kurochkin/backend-course#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.15"
   }
 }
